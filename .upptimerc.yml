@@ -5,10 +5,6 @@ baseUrl: /upptime/
 siteName: HappyTavern Status
 siteDescription: Uptime monitoring for HappyTavern
 
-# Optional: Customize the status page name and description
-siteName: HappyTavern Status
-siteDescription: Uptime monitoring for my personal services
-
 # Each site/url you want to monitor:
 sites:
   - name: Happy Tavern
