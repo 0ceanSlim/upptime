@@ -1,6 +1,55 @@
 owner: 0ceanSlim
 repo: upptime
 status-website: true
+
+# Optional: Customize the status page name and description
+siteName: HappyTavern Status
+siteDescription: Uptime monitoring for my personal services
+
+# Each site/url you want to monitor:
 sites:
-  - name: My Website
-    url: https://your-website.com
+  - name: Happy Tavern
+    url: https://happytavern.co
+    description: Main Website
+
+  - name: Jellyfin
+    url: https://jellyfin.happytavern.co
+    description: Media Server
+
+  - name: Jellyseer
+    url: https://discover.happytavern.co
+    description: Media Requests
+
+  - name: Immich
+    url: https://immich.happytavern.co
+    description: Photo Management
+
+  - name: AudioBookshelf
+    url: https://books.happytavern.co
+    description: Audiobook Server
+
+  - name: Mempool
+    url: https://mempool.happytavern.co
+    description: Block Explorer
+
+  - name: Ord Server
+    url: https://ord.happytavern.co
+    description: Bitcoin Ordinals
+
+  - name: DWM Game App
+    url: https://dwm.happytavern.co
+    description: DWM Game App
+
+  - name: Nostr Hero
+    url: https://hero.happytavern.co
+    description: Nostr Client
+
+  - name: Wheat
+    url: https://wheat.happytavern.co
+    description: Nostr Relay
+
+  - name: Link
+    url: https://link.happytavern.co
+    description: Experimental nostr client
+
+# You can add more services here following the above pattern.
