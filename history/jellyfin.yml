@@ -1,7 +1,7 @@
 url: https://jellyfin.happytavern.co
-status: up
-code: 200
-responseTime: 690
-lastUpdated: 2025-07-09T23:12:29.637Z
+status: down
+code: 502
+responseTime: 191
+lastUpdated: 2025-07-10T03:21:15.936Z
 startTime: 2025-07-01T12:58:07.679Z
 generator: Upptime <https://github.com/upptime/upptime>
