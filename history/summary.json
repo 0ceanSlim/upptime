@@ -22,18 +22,20 @@
     "url": "https://jellyfin.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.happytavern.co.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 690,
-    "timeWeek": 322,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {}
+    "time": 319,
+    "timeDay": 441,
+    "timeWeek": 305,
+    "timeMonth": 319,
+    "timeYear": 319,
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Jellyseer",
@@ -42,7 +44,7 @@
     "slug": "jellyseer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,43 +53,49 @@
     "timeWeek": 418,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Immich",
     "url": "https://immich.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/immich.happytavern.co.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 266,
-    "timeWeek": 195,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {}
+    "time": 205,
+    "timeDay": 211,
+    "timeWeek": 190,
+    "timeMonth": 205,
+    "timeYear": 205,
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "AudioBookshelf",
     "url": "https://books.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/books.happytavern.co.ico",
     "slug": "audio-bookshelf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 278,
-    "timeWeek": 206,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 211,
+    "timeDay": 219,
+    "timeWeek": 200,
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Mempool",
