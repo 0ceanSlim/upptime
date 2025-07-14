@@ -24,18 +24,6 @@ sites:
     url: https://happytavern.co
     description: Main Website
 
-  - name: Jellyfin
-    url: https://jellyfin.happytavern.co
-    description: Media Server
-
-  - name: Jellyseer
-    url: https://discover.happytavern.co
-    description: Media Requests
-
-  - name: Immich
-    url: https://immich.happytavern.co
-    description: Photo Management
-
   - name: AudioBookshelf
     url: https://books.happytavern.co
     description: Audiobook Server
@@ -43,10 +31,6 @@ sites:
   - name: Mempool
     url: https://mempool.happytavern.co
     description: Block Explorer
-
-  - name: Ord Server
-    url: https://ord.happytavern.co
-    description: Bitcoin Ordinals
 
   - name: DWM Game App
     url: https://dwm.happytavern.co
