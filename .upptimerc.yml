@@ -5,15 +5,66 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from my [GitHub repository](https://github.com/oceanslim/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/0ceanSlim/grain/main/www/static/icons/icon-192x192.png
+  faviconSvg: https://raw.githubusercontent.com/0ceanSlim/grain/main/www/static/icons/icon-512x512.png
+  name: Happy Tavern Services
+  introTitle: "**Happy Tavern Services** status monitoring powered by Upptime"
+  introMessage: Real-time monitoring for all Happy Tavern services including Wheat relay, game apps, and web services. Powered by [GitHub Actions](https://github.com/0ceanslim/upptime) with 5-minute check intervals.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: All Services
+      href: /upptime
+    - title: Wheat Relay
+      href: /upptime/history/wheat
+    - title: Grain Project
+      href: https://github.com/0ceanslim/grain
+    - title: Main Site
+      href: https://happytavern.co
+  metaTags:
+    - name: "description"
+      content: "Status monitoring for Happy Tavern services including Wheat Nostr relay powered by Grain"
+    - name: "keywords"
+      content: "nostr, relay, status, uptime, wheat, grain, happy tavern"
+    - property: "og:title"
+      content: "Happy Tavern Services Status"
+    - property: "og:description"
+      content: "Real-time status monitoring for Wheat relay and other Happy Tavern services"
+    - property: "og:image"
+      content: "https://raw.githubusercontent.com/0ceanSlim/grain/main/www/static/icons/icon-512x512.png"
+  css: |
+    /* Custom styles for Wheat/Grain branding */
+    :root {
+      --primary-color: #f4d03f;
+      --secondary-color: #8b4513;
+      --wheat-gold: #daa520;
+    }
+    
+    .navbar-brand {
+      color: var(--primary-color) !important;
+    }
+    
+    .status-up {
+      background: linear-gradient(135deg, #2ecc71, #27ae60) !important;
+    }
+    
+    .status-down {
+      background: linear-gradient(135deg, #e74c3c, #c0392b) !important;
+    }
+    
+    /* Special styling for Wheat relay */
+    .site[data-slug="wheat"] {
+      border-left: 4px solid var(--wheat-gold);
+      background: rgba(218, 165, 32, 0.1);
+    }
+    
+    /* Enhance the overall theme */
+    .card {
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    .navbar {
+      background: linear-gradient(135deg, #2c3e50, #34495e) !important;
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -42,7 +93,7 @@ sites:
 
   - name: Wheat
     url: https://wheat.happytavern.co
-    description: Nostr Relay
+    description: Nostr Relay (Development)
 
   - name: Link
     url: https://link.happytavern.co
