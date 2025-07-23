@@ -1,7 +1,7 @@
 url: https://wheat.happytavern.co
-status: up
-code: 200
-responseTime: 305
-lastUpdated: 2025-07-22T23:13:02.253Z
+status: down
+code: 502
+responseTime: 156
+lastUpdated: 2025-07-23T17:10:37.429Z
 startTime: 2025-07-01T12:58:12.067Z
 generator: Upptime <https://github.com/upptime/upptime>
