@@ -1,7 +1,7 @@
 url: https://happytavern.co
-status: up
-code: 200
-responseTime: 162
-lastUpdated: 2025-09-01T23:10:58.389Z
+status: down
+code: 502
+responseTime: 796
+lastUpdated: 2025-09-02T21:26:38.638Z
 startTime: 2025-07-01T12:58:07.177Z
 generator: Upptime <https://github.com/upptime/upptime>
