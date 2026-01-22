@@ -88,8 +88,12 @@ sites:
     description: DWM Game App
 
   - name: Nostr Hero
-    url: https://hero.happytavern.co
-    description: Nostr Client
+    url: https://nostrhero.quest
+    description: Nostr Hero Client
+
+  - name: Nostr Hero Test Server
+    url: https://test.nostrhero.quest
+    description: Nostr Hero Client
 
   - name: Wheat
     url: https://wheat.happytavern.co
