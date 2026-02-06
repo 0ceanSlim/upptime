@@ -1,7 +1,7 @@
 url: https://test.nostrhero.quest
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2026-02-05T23:17:14.379Z
+status: down
+code: 502
+responseTime: 301
+lastUpdated: 2026-02-06T18:08:48.696Z
 startTime: 2026-01-22T18:25:55.377Z
 generator: Upptime <https://github.com/upptime/upptime>
