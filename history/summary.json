@@ -4,16 +4,16 @@
     "url": "https://happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/happytavern.co.ico",
     "slug": "happy-tavern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.59%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "92.58%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "99.17%",
     "time": 235,
-    "timeDay": 129,
-    "timeWeek": 149,
-    "timeMonth": 270,
+    "timeDay": 87,
+    "timeWeek": 140,
+    "timeMonth": 265,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-07-12": 33,
@@ -40,7 +40,8 @@
       "2026-06-09": 407,
       "2026-06-11": 283,
       "2026-06-13": 31,
-      "2026-06-12": 26
+      "2026-06-12": 26,
+      "2026-06-14": 2
     }
   },
   {
@@ -48,16 +49,16 @@
     "url": "https://books.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/books.happytavern.co.ico",
     "slug": "audio-bookshelf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.16%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "93.15%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.09%",
     "time": 260,
-    "timeDay": 151,
-    "timeWeek": 158,
-    "timeMonth": 187,
+    "timeDay": 95,
+    "timeWeek": 148,
+    "timeMonth": 183,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-07-10": 477,
@@ -84,7 +85,8 @@
       "2026-06-06": 328,
       "2026-06-05": 588,
       "2026-06-09": 406,
-      "2026-06-11": 283
+      "2026-06-11": 283,
+      "2026-06-14": 1
     }
   },
   {
@@ -92,16 +94,16 @@
     "url": "https://mempool.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/mempool.happytavern.co.ico",
     "slug": "mempool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.69%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "92.68%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.20%",
     "time": 227,
-    "timeDay": 126,
-    "timeWeek": 145,
-    "timeMonth": 241,
+    "timeDay": 85,
+    "timeWeek": 136,
+    "timeMonth": 236,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-07-12": 33,
@@ -127,7 +129,8 @@
       "2026-06-09": 406,
       "2026-06-11": 283,
       "2026-06-13": 31,
-      "2026-06-12": 17
+      "2026-06-12": 17,
+      "2026-06-14": 1
     }
   },
   {
@@ -135,16 +138,16 @@
     "url": "https://dwm.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/dwm.happytavern.co.ico",
     "slug": "dwm-game-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "98.68%",
     "time": 231,
-    "timeDay": 128,
-    "timeWeek": 161,
-    "timeMonth": 246,
+    "timeDay": 125,
+    "timeWeek": 158,
+    "timeMonth": 244,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-07-12": 33,
@@ -173,7 +176,8 @@
       "2026-06-09": 406,
       "2026-06-11": 282,
       "2026-06-13": 31,
-      "2026-06-12": 8
+      "2026-06-12": 8,
+      "2026-06-14": 1
     }
   },
   {
@@ -181,16 +185,16 @@
     "url": "https://nostrhero.quest",
     "icon": "https://icons.duckduckgo.com/ip3/nostrhero.quest.ico",
     "slug": "nostr-hero",
-    "status": "up",
-    "uptime": "68.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.89%",
+    "status": "down",
+    "uptime": "68.19%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "92.88%",
     "uptimeMonth": "97.18%",
-    "uptimeYear": "68.13%",
+    "uptimeYear": "68.19%",
     "time": 292,
-    "timeDay": 126,
-    "timeWeek": 244,
-    "timeMonth": 371,
+    "timeDay": 87,
+    "timeWeek": 228,
+    "timeMonth": 363,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2025-07-12": 33,
@@ -321,7 +325,8 @@
       "2026-06-02": 240,
       "2026-06-09": 406,
       "2026-06-11": 282,
-      "2026-06-13": 29
+      "2026-06-13": 29,
+      "2026-06-14": 1
     }
   },
   {
@@ -330,11 +335,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.nostrhero.quest.ico",
     "slug": "nostr-hero-test-server",
     "status": "down",
-    "uptime": "10.54%",
+    "uptime": "10.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.54%",
+    "uptimeYear": "10.49%",
     "time": 329,
     "timeDay": 99,
     "timeWeek": 115,
@@ -343,7 +348,7 @@
     "dailyMinutesDown": {
       "2026-01-31": 32,
       "2026-02-06": 281,
-      "2026-06-14": 238,
+      "2026-06-14": 1224,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -478,16 +483,16 @@
     "url": "https://wheat.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/wheat.happytavern.co.ico",
     "slug": "wheat",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.18%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.17%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 245,
-    "timeDay": 119,
-    "timeWeek": 152,
-    "timeMonth": 309,
+    "timeDay": 86,
+    "timeWeek": 144,
+    "timeMonth": 303,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-07-12": 59,
@@ -515,7 +520,8 @@
       "2026-05-20": 356,
       "2026-06-02": 240,
       "2026-06-09": 406,
-      "2026-06-11": 282
+      "2026-06-11": 282,
+      "2026-06-14": 1
     }
   },
   {
@@ -523,17 +529,17 @@
     "url": "https://link.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/link.happytavern.co.ico",
     "slug": "link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "93.18%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "99.10%",
-    "time": 338,
-    "timeDay": 238,
-    "timeWeek": 240,
-    "timeMonth": 458,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 149,
+    "timeWeek": 225,
+    "timeMonth": 449,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2025-07-12": 33,
       "2025-07-20": 112,
@@ -558,7 +564,8 @@
       "2026-05-20": 356,
       "2026-06-02": 240,
       "2026-06-09": 406,
-      "2026-06-11": 282
+      "2026-06-11": 282,
+      "2026-06-14": 0
     }
   }
 ]
