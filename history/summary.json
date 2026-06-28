@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/happytavern.co.ico",
     "slug": "happy-tavern",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.16%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.16%",
     "time": 233,
     "timeDay": 140,
     "timeWeek": 185,
@@ -41,7 +41,8 @@
       "2026-06-11": 283,
       "2026-06-13": 31,
       "2026-06-12": 26,
-      "2026-06-14": 153
+      "2026-06-14": 153,
+      "2026-06-28": 56
     }
   },
   {
@@ -95,11 +96,11 @@
     "url": "https://mempool.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/mempool.happytavern.co.ico",
     "slug": "mempool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.20%",
     "time": 225,
     "timeDay": 140,
@@ -131,7 +132,8 @@
       "2026-06-11": 283,
       "2026-06-13": 31,
       "2026-06-12": 17,
-      "2026-06-14": 153
+      "2026-06-14": 153,
+      "2026-06-28": 47
     }
   },
   {
@@ -139,12 +141,12 @@
     "url": "https://dwm.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/dwm.happytavern.co.ico",
     "slug": "dwm-game-app",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "98.70%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "98.69%",
     "time": 229,
     "timeDay": 125,
     "timeWeek": 172,
@@ -178,7 +180,8 @@
       "2026-06-11": 282,
       "2026-06-13": 31,
       "2026-06-12": 8,
-      "2026-06-14": 153
+      "2026-06-14": 153,
+      "2026-06-28": 38
     }
   },
   {
@@ -186,12 +189,12 @@
     "url": "https://nostrhero.quest",
     "icon": "https://icons.duckduckgo.com/ip3/nostrhero.quest.ico",
     "slug": "nostr-hero",
-    "status": "up",
-    "uptime": "69.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "69.33%",
+    "status": "down",
+    "uptime": "69.35%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "69.35%",
     "time": 291,
     "timeDay": 272,
     "timeWeek": 272,
@@ -327,7 +330,8 @@
       "2026-06-09": 406,
       "2026-06-11": 282,
       "2026-06-13": 29,
-      "2026-06-14": 153
+      "2026-06-14": 153,
+      "2026-06-28": 28
     }
   },
   {
@@ -336,11 +340,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.nostrhero.quest.ico",
     "slug": "nostr-hero-test-server",
     "status": "down",
-    "uptime": "9.60%",
+    "uptime": "9.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.60%",
+    "uptimeYear": "9.58%",
     "time": 312,
     "timeDay": 96,
     "timeWeek": 147,
@@ -349,7 +353,7 @@
     "dailyMinutesDown": {
       "2026-01-31": 32,
       "2026-02-06": 281,
-      "2026-06-28": 221,
+      "2026-06-28": 632,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -498,11 +502,11 @@
     "url": "https://wheat.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/wheat.happytavern.co.ico",
     "slug": "wheat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "98.94%",
     "time": 242,
     "timeDay": 131,
@@ -536,7 +540,8 @@
       "2026-06-02": 240,
       "2026-06-09": 406,
       "2026-06-11": 282,
-      "2026-06-14": 152
+      "2026-06-14": 152,
+      "2026-06-28": 10
     }
   },
   {
@@ -544,11 +549,11 @@
     "url": "https://link.happytavern.co",
     "icon": "https://icons.duckduckgo.com/ip3/link.happytavern.co.ico",
     "slug": "link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.54%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.10%",
     "time": 336,
     "timeDay": 223,
@@ -580,7 +585,8 @@
       "2026-06-02": 240,
       "2026-06-09": 406,
       "2026-06-11": 282,
-      "2026-06-14": 152
+      "2026-06-14": 152,
+      "2026-06-28": 0
     }
   }
 ]
