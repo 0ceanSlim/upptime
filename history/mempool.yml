@@ -1,7 +1,7 @@
 url: https://mempool.happytavern.co
-status: down
-code: 502
-responseTime: 145
-lastUpdated: 2026-11-09T02:14:38.817Z
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2026-11-10T03:41:25.500Z
 startTime: 2025-07-01T12:58:09.995Z
 generator: Upptime <https://github.com/upptime/upptime>
